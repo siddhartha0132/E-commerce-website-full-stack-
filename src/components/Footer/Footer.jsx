@@ -4,6 +4,7 @@ import footer_logo from '../assets/logo_big.png'
 import instagram_icon from '../assets/instagram_icon.png'
 import pintester_icon from '../assets/pintester_icon.png'
 import whatshap_icon from '../assets/whatsapp_icon.png'
+
 const Footer = () => {
   return (
     <div className='footer'>
